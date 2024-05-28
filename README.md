@@ -3,6 +3,12 @@ Hey there! This repo is a bunch of files I've put together to help out with game
 
 These files are super easy to use and were made to be straightforward. Honestly, you could probably whip up something similar on your own without too much trouble. But, as mentioned earlier, they're here to give you a head start. Feel free to grab them, tweak to your heart's content, make them better, or pass them on to someone who could use them.
 
+If you like these files and if you think they are usefull, than please buy me a coffee :-)
+
+<a href="https://www.buymeacoffee.com/oliverengels" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174" style="border-radius:5px;">
+</a>
+
 ### Program's
 - Office Excel
 - Office Word
@@ -11,7 +17,7 @@ These files are super easy to use and were made to be straightforward. Honestly,
 ## What's Inside
 You'll find a mix of stuff here meant to help with different parts of production. Remember, these aren't one-size-fits-all. They're more like jumping-off points that you'll probably need to adjust to fit your project better.
 
-## How to User Them
+## How to Use them
 These files are here to help you get a head start, whether you're organising your project, figuring out your design, or setting up some technical stuff. Take what you need, change it up, and make it work for you.
 
 ## Want to Help Out?
